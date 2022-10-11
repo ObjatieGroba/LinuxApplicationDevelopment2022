@@ -2,3 +2,6 @@
 .idea
 01_GitBuildReq/hello
 02_TerminalProject/show
+03_Multifile/prog
+03_Multifile/prog-*
+03_Multifile/README
